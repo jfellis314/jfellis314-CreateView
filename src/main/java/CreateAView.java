@@ -33,7 +33,7 @@ import java.sql.Statement;
  *      |3      |'Steve'               |'Jones'                 |29
  *
  *
- * What we can do is put this virtual table in a view so we can query data based on the virtual table above instead of the actual table in the database.
+ * What we can do is put this virtual table e in a view so we can query data based on the virtual table above instead of the actual table in the database.
  *
  * The syntax for creating a view is as follows:
  * CREATE VIEW view_name AS sql_statement;
